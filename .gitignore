@@ -1,0 +1,5 @@
+.bundle
+config.ru
+Gemfile.lock
+omni.db
+vendor/
